@@ -1,5 +1,3 @@
-# alain-a-portfolio
-
 <h1>Personal Portfolio</h1>
 
 The brief was to develop a static front end project  using HTML and CSS while. This website is created for educational purposes.
